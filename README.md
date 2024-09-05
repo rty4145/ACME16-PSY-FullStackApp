@@ -10,13 +10,11 @@ Provide a README file with the following information:
 
 ## Project summary
 
-### One-sentence description of the project
-
-TODO: A 20-second elevator pitch of your project - its core idea summarized in one sentence.
+The goal of this project is to improve a personality assessment system and mobile app by adding feedback features, refining data-based recommendations, and creating seamless integration between the two platforms.
 
 ### Additional information about the project
 
-TODO: Write a compelling/creative/informative project description / summary
+This project builds upon two previously developed applications: a phone app for daily emotional entries and a Qualtrics survey for personality evaluations. The aim is to improve the app's functionality and user experience, resolve issues with the survey's automatic generation of personalized feedback, and integrate the survey data with the app to offer users more tailored recommendations and interventions based on their data.
 
 ## Installation
 
@@ -42,8 +40,11 @@ and showcase your features.
 
 ## Known Problems
 
-TODO: Describe any known issues, bugs, odd behaviors or code smells. 
-Provide steps to reproduce the problem and/or name a file or a function where the problem lives.
+PDF Generation Issues: Automatic generation of the personalized pdf report is not functioning consistently.
+
+Steps: Complete the Qualtrics Web-Based survey, wait for email, check if email has pdf attached
+
+Clustering Program: The current approach for recommending "functionally equivalent" situations is overly simplistic and lacks accuracy.
 
 
 ## Contributing
