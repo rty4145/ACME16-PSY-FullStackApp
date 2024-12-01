@@ -1,0 +1,32 @@
+Project Name: ACME16-PSY-FullStackApp
+Client Name: WSU Psychology Clinic
+Date: 11/18/2024
+Time: 3:30 PM - 4:00 PM
+Location: Zoom
+Attendees:
+	Dr. Walter Scott, Belinda Lin
+	Christian Manangan
+	Jiaming Chu
+	Shaylin Smith
+1. Agenda
+	- Go over next steps after fixing the PDF
+	- Talk about scheduling client presentation.
+	- Talk about future work.
+	
+2. Meeting Summary
+    - Work on new PDF edits for this week.
+	- Integrate new PDF ideally before the end of the semester (December 2nd)
+	- Next semester we will be using LLMs to categorize the events as equivalent.
+	- Look into natural language processing (specifically in python)
+	- Familiarize ourselves with the phone app code.
+	
+3. Project Milestones Discussed
+	- Client presentation will be scheduled for December 2nd for an hour.
+	
+4. Next Steps
+	- Scheduled next meeting for a week from current meeting at same time and location
+
+5. Next Meeting
+	Date: 12/2/24
+	Time: 3:30 PM
+	Location: Zoom

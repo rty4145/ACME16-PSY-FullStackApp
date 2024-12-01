@@ -1,0 +1,32 @@
+Project Name: ACME16-PSY-FullStackApp
+Client Name: WSU Psychology Clinic
+Date: 09/09/2024
+Time: 3:30 PM - 4:00 PM
+Location: Zoom
+Attendees:
+	Dr. Walter Scott, Belinda Lin
+	Shaylin Smith
+	Christian Manangan
+	Jiaming Chu
+1. Agenda
+	- Introduce ourselves to the client
+	- Get an overview of the project and get more details about the project description and requirements
+	
+2. Meeeting Summary
+	Introduction:
+		- This project is broken up into two different surveys. One collects the thoughts and emotions of the person during daily activities and contexts. The other is a larger survey that asks questions to the user and then sends them a PDF to their email that details information about their temperment.
+	Client's Requirements:
+		- The client would like the PDF file to be correctly sent to the user's email. At the moment this functionality does not work.
+		- The client would like both surveys to be integrated together so that the daily survey asks the user questions based upon their temperment results.
+		- The client would like a better grouping system that groups different events and contexts together based upon how similarly the user felt during them.
+	
+3. Project Milestones Discussed
+	- None
+	
+4. Next Steps
+	- Scheduled next meeting for a week from current meeting at same time and location
+
+5. Next Meeting
+	Date: 09/16/24
+	Time: 3:30 PM
+	Location: Zoom

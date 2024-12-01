@@ -1,0 +1,28 @@
+Project Name: ACME16-PSY-FullStackApp
+Client Name: WSU Psychology Clinic
+Date: 09/16/2024
+Time: 3:30 PM - 4:00 PM
+Location: Zoom
+Attendees:
+	Dr. Walter Scott, Belinda Lin
+	Shaylin Smith
+	Christian Manangan
+	Jiaming Chu
+1. Agenda
+	- Get a more in depth understanding of goals and stakeholders to better represent the project in the project description section.
+	
+2. Meeeting Summary
+	- Potential stakeholders are the WSU psychology clinic as well as potentially the Portland psychology clinic.
+	- This research is looking into how different personalities react to different kinds of treatment and if factoring a patient's personality/temperment would allow for a better tailored treatment plan.
+	- Some research has been done into this field but they are looking for more hard proof that personality helps with treatment hence why they have created this project.
+	
+3. Project Milestones Discussed
+	- Look into running the previous code and accessing Python Anywhere
+	
+4. Next Steps
+	- Scheduled next meeting for a week from current meeting at same time and location
+
+5. Next Meeting
+	Date: 09/23/24
+	Time: 3:30 PM
+	Location: Zoom

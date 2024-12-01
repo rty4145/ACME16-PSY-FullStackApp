@@ -1,0 +1,30 @@
+Project Name: ACME16-PSY-FullStackApp
+Client Name: WSU Psychology Clinic
+Date: 10/28/2024
+Time: 3:30 PM - 4:00 PM
+Location: Zoom
+Attendees:
+	Dr. Walter Scott, Belinda Lin
+	Christian Manangan
+	Jiaming Chu
+	Shaylin Smith
+1. Agenda
+	- Go over interpretation scores
+	- Go over Radar graph issues
+	
+2. Meeting Summary
+    - Confirm that automatic PDF generation is completed.
+	- Go over where to insert interpretation scores and what graphs to add.
+	- Update PDF on back end but do not push to current implementation.
+	- Prioritize PDF changes and radar graph.
+	
+3. Project Milestones Discussed
+	- None
+	
+4. Next Steps
+	- Scheduled next meeting for a week from current meeting at same time and location
+
+5. Next Meeting
+	Date: 11/04/24
+	Time: 3:30 PM
+	Location: Zoom

@@ -1,0 +1,29 @@
+Project Name: ACME16-PSY-FullStackApp
+Client Name: WSU Psychology Clinic
+Date: 09/30/2024
+Time: 3:30 PM - 4:00 PM
+Location: Zoom
+Attendees:
+	Belinda Lin
+	Shaylin Smith
+	Christian Manangan
+	Jiaming Chu
+1. Agenda
+	- Go over functional and non-functional requirements of the project
+	
+2. Meeeting Summary
+	- Went over functional requirements and asked about any additional non-functional requirements.
+	- PICA results is needed to be sent to the e-mails by around October 14th but October 18th at the latest.
+	
+3. Project Milestones Discussed
+	- Look into running the previous code and accessing Python Anywhere
+	
+4. Next Steps
+	- Start working on fixing automated report sending
+	- Set up temporary e-mail to troubleshoot the automated report sending.
+	- Scheduled next meeting for a week from current meeting at same time and location
+
+5. Next Meeting
+	Date: 09/23/24
+	Time: 3:30 PM
+	Location: Zoom

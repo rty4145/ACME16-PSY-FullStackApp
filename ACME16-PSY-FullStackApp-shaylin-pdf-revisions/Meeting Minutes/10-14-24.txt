@@ -1,0 +1,29 @@
+Project Name: ACME16-PSY-FullStackApp
+Client Name: WSU Psychology Clinic
+Date: 10/14/2024
+Time: 3:30 PM - 4:00 PM
+Location: Zoom
+Attendees:
+	Dr. Walter Scott, Belinda Lin
+	Christian Manangan
+	Jiaming Chu
+1. Agenda
+	- Discuss potential culprits of system issues and a plan of attack
+	
+2. Meeting Summary
+  - Better to contact Qualtrics or PythonAnywhere for help than previous capstone team members
+	- Emailing is working but issue lies within Qualtrics
+	- Getting httpStatus error 401, something about not having permissions
+		-Think it might be with the API token needing to be updated or renewed
+	- Try and create our own workflow to see if the permission error still persists
+	
+3. Project Milestones Discussed
+	- None
+	
+4. Next Steps
+	- Scheduled next meeting for a week from current meeting at same time and location
+
+5. Next Meeting
+	Date: 10/21/24
+	Time: 3:30 PM
+	Location: Zoom

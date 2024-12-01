@@ -1,0 +1,30 @@
+Project Name: ACME16-PSY-FullStackApp
+Client Name: WSU Psychology Clinic
+Date: 10/21/2024
+Time: 3:30 PM - 4:00 PM
+Location: Zoom
+Attendees:
+	Dr. Walter Scott, Belinda Lin
+	Christian Manangan
+	Jiaming Chu
+	Shaylin Smith
+1. Agenda
+	- Present working report generator to clients.
+	
+2. Meeting Summary
+    - Qualtrics problem was fixed by correcting the token and fixing some column names.
+	- PythonAnywhere problem was fixed by creating a new workflow that triggers an automated report generation.
+	- We will be putting our files together onto PythonAnywhere as a web app.
+	- We will be looking into fixing the radar graph and adding certain langauge to the graphs to make the PDF more understandable.
+	- Our three features to be completed for this sprint is the automatic PDF sending, fixing the radar graph, and adding the specific language of the document that makes the graphs more interpretable.
+	
+3. Project Milestones Discussed
+	- None
+	
+4. Next Steps
+	- Scheduled next meeting for a week from current meeting at same time and location
+
+5. Next Meeting
+	Date: 10/28/24
+	Time: 3:30 PM
+	Location: Zoom
